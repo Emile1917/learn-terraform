@@ -3,13 +3,13 @@
 
 terraform {
 
-  cloud {
+  /*cloud {
     
 
     workspaces {
       name = "learn-terraform"
     }
-  }
+  }*/
 
   required_providers {
     aws = {
