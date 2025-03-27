@@ -1,2 +1,1 @@
-# learn-terraform
-learning terraform
+# Infrastructure provisionning
